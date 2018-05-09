@@ -1,0 +1,17 @@
+{
+  "name": "polygontagger",
+  "version": "1.0.0",
+  "description": "Using turf to tag GoeObj",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "typhoon"
+  ],
+  "author": "Alien",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6"
+  }
+}
